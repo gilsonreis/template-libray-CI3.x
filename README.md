@@ -11,4 +11,4 @@ Library para usar template no CI3.x
 - No controller, substituir a chamada $this->load->view por $this->layout->view. Os parâmetros são os mesmos;
 - Caso desejar usar outro layout, basta chamar o método $this->layout->setLayout('layouts/outro_layout');
 
-### Não me lembro o autor dessa classe. Por favor, entrar em contato para que possa citar o nome do autor.
+### Não me lembro o autor dessa classe. Por favor, entrar em contato para que possa citar o nome do autor. Apenas adaptei para PHP 5.x+.
